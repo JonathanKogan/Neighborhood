@@ -1,5 +1,6 @@
 # Jackson Heights
 ## HC6 Highlighted Map:
+![alt text](JacksonHeightsHighlighted.png)
 
 ## Basic Demographics & Statistics:
 Zipcode: 11372
@@ -36,9 +37,6 @@ In the neighborhood of Jackson Heights, the bar graph shows that the average sid
 ![alt text](Plot5_JacksonHeights.png)
 
 Based on the bar graph, the neighborhood of Jackson Heights prefers sidewalks compared to roadways for seating for outdoor dining.  
-
-## Highlighted Image from HC8
-![alt text](JacksonHeightsHighlighted.png)
 
 ## Map from HC9
 <dl>
